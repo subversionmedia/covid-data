@@ -32,17 +32,17 @@ The "excess deaths" number *should* be taken by analyzing the actual death total
 
 This is *not* what the CDC data reflects though.  
 
-The CDC did not posting the atomic death certificates with date of death and causes of death.  
+The CDC did not post the atomic death certificates with date of death and causes of death.  
 
 Instead, the CDC published limited data aggregated by causes of death (rather than individual deaths) for certain causes of death.  There is no way to calculate overlaps of deaths or even raw daily or weekly death counts from the data the CDC makes available.  
 
-Instead, the "excess deaths" number from the CDC takes the aggregated counts of death certificates including the word "covid" and adds that to historical estimates from other causes.  https://wwwnc.cdc.gov/eid/article/27/3/20-3925_article and https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm  
+The "excess deaths" number from the CDC takes the aggregated counts of death certificates including the word "covid" and adds that to historical estimates from other causes.  See https://wwwnc.cdc.gov/eid/article/27/3/20-3925_article and https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm  
 
-If a variation of the word "covid" was included on the death certificate, it was presumed a covid death in 95% of certificates:
+If a variation of the word "covid" was included on the death certificate, it was presumed a covid death for 95% of certificates, even if the case was merely a positive test:
 
 > For the majority of deaths where COVID-19 is reported on the death certificate (approximately 95%), COVID-19 is selected as the underlying cause of death.
 
-And then the rest of the deaths from other causes were estimated from historicals.
+And then the rest of the deaths from other causes were estimated from historicals:
 
 > Additionally, deaths from all causes excluding COVID-19 were also estimated.
 
