@@ -24,7 +24,11 @@ Instead of including proximate cause analyses, PHE-UK expanded the exact metric 
 
 This is why in many data reports, PHE-UK and the NHS are using a metric called "Deaths within 28 days of positive specimen date"
 
-Covid need not actually be a proximate cause of death for the death to be included as a "covid death".
+The CDC does not require that the patient even had a positive covid test:
+
+> In cases where a definite diagnosis of COVID–19 cannot be  made,  but  it  is  suspected  or  likely  (e.g.,  the  circumstances  are  compelling  within  a  reasonable  degree  of  certainty),  it  is  acceptable  to  report  COVID–19  on  a  death  certificate  as  “probable” or “presumed.” In these instances, certifiers should use their best clinical judgement in determining if a COVID–19 infection  was  likely.  https://www.cdc.gov/nchs/data/nvss/vsrg/vsrg03-508.pdf#page=2
+
+Covid need not actually be a proximate cause of death for the death to be included as a "covid death", and the patient need not even test positive for covid.
 
 # Excess Deaths
 
