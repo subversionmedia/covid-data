@@ -8,7 +8,7 @@ WHO admits asymptomatic transmission is "very rare", cannot give percentage,  ht
 
 CDC director admits vaccines fail to prevent transmission https://web.archive.org/web/20210805232759/https://www.cnn.com/us/live-news/coronavirus-pandemic-vaccine-updates-08-05-21/h_d2accec79fdc37f422d02c536828ea1e
 
-Moderna's EUA admits it has no data on effectiveness over time, or reducing transmission, or for long-term effectives of covid, or on reducing covid death https://www.fda.gov/media/144434/download#page=48 (pp48)
+Moderna's EUA admits it has no data on effectiveness over time, or reducing transmission, or for long-term effectives of covid, or on reducing covid death https://www.fda.gov/media/144434/download#page=48
 
 Pfizer's clinical III (RCT) shows 90%+ reduction in covid cases and substantial drop in severe cases, but zero evidence of reduction in covid deaths with poor p-val of 0.28 in vaccinated vs unvaccinated.  https://www.medrxiv.org/content/medrxiv/early/2021/07/28/2021.07.28.21261159/DC1/embed/media-1.pdf
 
@@ -36,7 +36,7 @@ Dr Geert Vanden Bossche, a world leading vaccinologist for Gates Foundation, war
 
 ### Poor Data Quality
 
-Pfizer's clinical II data for their EUA admits that in concluding 90%+ effectiveness, roughly 95% of the covid infections in both placebo and vaccinated groups are presumed as "suspected but unconfirmed" as they did not have a positive PCR test https://www.fda.gov/media/144245/download#page=42
+Pfizer's clinical II data for their EUA admits roughly 95% of the covid infections in both placebo and vaccinated groups are presumed as "suspected but unconfirmed" as they did not have positive PCR tests https://www.fda.gov/media/144245/download#page=42
 
 Pfizer's clinical II data for their EUA includes unexplained 5x increase (311 vs 60) in withdrawal for vaccinated over unvaccinated "prior to 7 days after dose 2" https://www.fda.gov/media/144245/download#page=18
 
