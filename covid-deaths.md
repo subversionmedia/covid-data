@@ -32,9 +32,25 @@ The "excess deaths" number *should* be taken by analyzing the actual death total
 
 This is *not* what the CDC data reflects though.  
 
-The CDC is not posting the atomic deaths counts.  Instead, the CDC has chosen to publish some data aggregated by causes of death (rather than individual deaths) for certain causes of death.  There is no way to calculate overlaps of deaths or even raw daily or weekly death counts.  
+The CDC did not posting the atomic death certificates with date of death and causes of death.  
 
-Instead, the "excess deaths" number from the CDC takes the daily and weekly counts of death certificates including the word "covid" and adds that to historical estimates from other causes. https://wwwnc.cdc.gov/eid/article/27/3/20-3925_article and https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm  The CDC uses a "quasi-Poisson regression" estimate for excess deaths, not actual death certificate counts, summed by time period, compared to the prior year stats.
+Instead, the CDC published limited data aggregated by causes of death (rather than individual deaths) for certain causes of death.  There is no way to calculate overlaps of deaths or even raw daily or weekly death counts from the data the CDC makes available.  
+
+Instead, the "excess deaths" number from the CDC takes the aggregated counts of death certificates including the word "covid" and adds that to historical estimates from other causes.  https://wwwnc.cdc.gov/eid/article/27/3/20-3925_article and https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm  
+
+If a variation of the word "covid" was included on the death certificate, it was presumed a covid death in 95% of certificates:
+
+> For the majority of deaths where COVID-19 is reported on the death certificate (approximately 95%), COVID-19 is selected as the underlying cause of death.
+
+And then the rest of the deaths from other causes were estimated from historicals.
+
+> Additionally, deaths from all causes excluding COVID-19 were also estimated.
+
+The CDC uses a "quasi-Poisson regression" estimate for excess deaths, not actual death certificate counts, summed by day or week, compared to the prior year's stats.  Even worse, the estimation model excluded numerous causes of death, further increasing the margin of error: 
+
+> Deaths due to all other natural causes were excluded (ICD-10 codes: A00–A39, A42–B99, D00–E07, E15–E68, E70–E90, F00, F02, F04–G26, G31–H95, K00–K93, L00–M99, N00–N16, N20–N98, O00–O99, P00–P96, Q00–Q99). External causes of death (i.e. injuries) were excluded, as the reporting lag is substantially longer for external causes of death (4). Additionally, causes of death where the underlying cause was unknown or ill-specified (i.e. R-codes) were excluded (except for R09.2, which is included under the Respiratory diseases category).
+
+This is bad data science.  The proper method to calculate "excess deaths" would be to ignore causes of death entirely, and then just take actual daily death certificates and compare them to last year, as well as historical averages for maybe the last 3, 5, and 10 year periods.  The CDC's method incorrectly and unscientifically allows for double-counting of deaths.
 
 # Examples of Blatant Misclassification
 
