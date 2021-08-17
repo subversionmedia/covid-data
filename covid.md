@@ -62,11 +62,16 @@ Biden's senior director admits on CNN that masks don't work for covid https://tw
 
 California data shows no evidence masks have any effect https://ianmsc.substack.com/p/los-angeles-just-showed-masks-dont
 
+Swiss Policy Research finds 10 separate studies, including RCTs demonstrating masks are ineffective for covid https://archive.is/RouQF
+
+Bavaria vs Germany observational shows normal population use of N95 respirators ineffective https://archive.is/RouQF#ffp2
+
 # Ivermectin
 
 89 patient RCT shows ivermectin effective for treating covid https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1
 
 All 8 states of Peru running mass ivermectin trials show collapse in covid deaths in age 60+ patients immediately following deployment of mass ivermectin treatment https://twitter.com/SandmanRT/status/1368367083386503170/photo/1
+
 
 # Social Impact of Pandemic Policy
 
