@@ -46,11 +46,13 @@ And then the rest of the deaths from other causes were estimated from historical
 
 > Additionally, deaths from all causes excluding COVID-19 were also estimated.
 
-The CDC uses a "quasi-Poisson regression" estimate for excess deaths, not actual death certificate counts, summed by day or week, compared to the prior year's stats.  Even worse, the estimation model excluded numerous causes of death, further increasing the margin of error: 
+The CDC uses a "quasi-Poisson regression" estimate for excess deaths, not actual death certificate counts, summed by day or week, compared to the prior year's stats.  
+
+Even worse, the estimation model excluded numerous causes of death, further increasing the margin of error: 
 
 > Deaths due to all other natural causes were excluded (ICD-10 codes: A00–A39, A42–B99, D00–E07, E15–E68, E70–E90, F00, F02, F04–G26, G31–H95, K00–K93, L00–M99, N00–N16, N20–N98, O00–O99, P00–P96, Q00–Q99). External causes of death (i.e. injuries) were excluded, as the reporting lag is substantially longer for external causes of death (4). Additionally, causes of death where the underlying cause was unknown or ill-specified (i.e. R-codes) were excluded (except for R09.2, which is included under the Respiratory diseases category).
 
-This is bad data science.  The proper method to calculate "excess deaths" would be to ignore causes of death entirely, and then just take actual daily death certificates and compare them to last year, as well as historical averages for maybe the last 3, 5, and 10 year periods.  The CDC's method incorrectly and unscientifically allows for double-counting of deaths.
+This is bad data science.  The proper method to calculate "excess deaths" would be to ignore causes of death entirely, and then just take actual daily death certificates and compare them to last year, as well as historical averages for maybe the last 3, 5, and 10 year periods.  The CDC's method incorrectly and unscientifically allows for double-counting of deaths, and they do not make the atomic data publicly and transparently available for independent analysis.
 
 # Examples of Blatant Misclassification
 
