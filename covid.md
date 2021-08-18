@@ -66,6 +66,8 @@ Swiss Policy Research finds 10 separate studies, including RCTs demonstrating ma
 
 Bavaria vs Germany observational shows normal population use of N95 respirators ineffective https://archive.is/RouQF#ffp2
 
+The size of the mask pore is about 80 to 500μm (micrometers) or 80,000 to 500,000 nanometers.  https://pubmed.ncbi.nlm.nih.gov/31289698/. The size of the virus is about 50 to 200 nanometers, leaving mask pores as 400 to 10,000 times larger than the virus.
+
 # Ivermectin
 
 89 patient RCT shows ivermectin effective for treating covid https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1
