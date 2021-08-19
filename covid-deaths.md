@@ -28,7 +28,17 @@ The CDC does not require that the patient even had a positive covid test:
 
 > In cases where a definite diagnosis of COVID–19 cannot be  made,  but  it  is  suspected  or  likely  (e.g.,  the  circumstances  are  compelling  within  a  reasonable  degree  of  certainty),  it  is  acceptable  to  report  COVID–19  on  a  death  certificate  as  “probable” or “presumed.” In these instances, certifiers should use their best clinical judgement in determining if a COVID–19 infection  was  likely.  https://www.cdc.gov/nchs/data/nvss/vsrg/vsrg03-508.pdf#page=2
 
-Covid need not actually be a proximate cause of death for the death to be included as a "covid death", and the patient need not even test positive for covid.
+The CDC adds even further disclaimers to their metrics:
+
+> Provisional numbers of deaths coded to ICD-10 code U07.1
+
+> – Includes deaths with COVID-19 as the underlying cause or contributing cause
+
+> – Includes deaths with confirmed or presumed COVID-19
+
+https://emergency.cdc.gov/coca/ppt/2020/Final_COCA_Call_Slides_04_16_2020.pdf
+
+Covid need not actually be a proximate cause of death for the death to be included as a "covid death", and the patient need not even test positive for covid for the CDC or NHS to count someone as a covid death.
 
 # Excess Deaths
 
