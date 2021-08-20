@@ -47,7 +47,7 @@ NYPD only 43% vaxed in July 2021 https://nypost.com/2021/07/21/nypd-lags-in-vacc
 
 The UN admitted one of the largest remaining groups of the "vaccine hesitant" are those with higher level scientific education and experience, who "have read the primary literature themselves, and they’re correctly interpreting it, so it’s not a misunderstanding." https://digitallibrary.un.org/record/3894424
 
-Pfizer is not mandating vaccination for employees, allows weekly testing instead https://www.cnbc.com/2021/08/04/vaccine-mandate-pfizer-will-require-covid-shot-or-testing-for-us-employees-.html. https://pbs.twimg.com/media/E8hBFzZWUAQAwsQ?format=jpg&name=large
+Pfizer is not mandating vaccination for employees, allows weekly testing instead https://www.cnbc.com/2021/08/04/vaccine-mandate-pfizer-will-require-covid-shot-or-testing-for-us-employees-.html, letter from pfizer to employees shows they can prove they're vaccinated, disclose they're unvaccinated, or decline to disclose https://pbs.twimg.com/media/E8hBFzZWUAQAwsQ?format=jpg&name=large
 
 NIH is not mandating vaccination for employees https://thehill.com/changing-america/well-being/prevention-cures/550394-nih-chief-says-he-is-not-requiring-his-employees
 
