@@ -40,6 +40,8 @@ Pfizer's clinical II data for their EUA admits roughly 95% of the covid infectio
 
 Pfizer's clinical II data for their EUA includes unexplained 5x increase (311 vs 60) in withdrawal for vaccinated over unvaccinated "prior to 7 days after dose 2" https://www.fda.gov/media/144245/download#page=18
 
+FDA has an extensive history of approving and then revoking drug approvals https://prescriptiondrugs.procon.org/fda-approved-prescription-drugs-later-pulled-from-the-market/
+
 
 ### Vaccine Support
 
