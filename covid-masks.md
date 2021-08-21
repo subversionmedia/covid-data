@@ -17,3 +17,7 @@ An article in the New England Journal of Medicine from May 2020 came to the conc
 A 2015 study in the British Medical Journal BMJ Open found that cloth masks were penetrated by 97% of particles and may increase infection risk by retaining moisture or repeated use. https://bmjopen.bmj.com/content/5/4/e006577
 
 An August 2020 review by a German professor in virology, epidemiology and hygiene found that there is no evidence for the effectiveness of face masks and that the improper daily use of masks by the public may in fact lead to an increase in infections. https://www.thieme-connect.com/products/ejournals/html/10.1055/a-1174-6591
+
+States and country comparisons repeatedly show no evidence of mask effectiveness https://ianmsc.substack.com/p/the-more-masks-fail-the-more-we-need
+
+Covid case quiz shows how perception on mask effectiveness is not reflected in data https://www.covidchartsquiz.com/state-vs-state
