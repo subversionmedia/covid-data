@@ -22,15 +22,19 @@ States and country comparisons repeatedly show no evidence of mask effectiveness
 
 Covid case quiz shows how perception on mask effectiveness is not reflected in data https://www.covidchartsquiz.com/state-vs-state
 
-https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1.full-text
+August 2021 study "hypothesized that statewide mask mandates and mask use were associated with lower COVID-19 case growth rates" but found they "did not observe association between mask mandates or use and reduced COVID-19 spread in US states". https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1.full-text
 
-https://swprs.org/face-masks-evidence/
+# Masks and Exercise
 
-https://pubmed.ncbi.nlm.nih.gov/29395560/
+https://pubmed.ncbi.nlm.nih.gov/32590322/ November 2020 study regarding exercising in masks found it causes hypercapnic hypoxia and
 
-https://pubmed.ncbi.nlm.nih.gov/32590322/
+> hypercapnic hypoxia may potentially increase acidic environment, cardiac overload, anaerobic metabolism and renal overload, which may substantially aggravate the underlying pathology of established chronic diseases. Further contrary to the earlier thought, no evidence exists to claim the facemasks during exercise offer additional protection from the droplet transfer of the virus.
 
-https://pubmed.ncbi.nlm.nih.gov/15340662/
+https://pubmed.ncbi.nlm.nih.gov/15340662/ found in 2004 while studying SARS
+
+> Wearing an N95 mask for 4 hours during HD significantly reduced PaO2 and increased respiratory adverse effects in [end-stage renal disease] patients.
+
+# Other
 
 https://pubmed.ncbi.nlm.nih.gov/26579222/
 
@@ -83,3 +87,6 @@ https://link.springer.com/article/10.1007/s00392-020-01704-y
 https://clinmedjournals.org/articles/jide/journal-of-infectious-diseases-and-epidemiology-jide-6-130.php?jid=jide
 
 https://www.sciencedirect.com/science/article/abs/pii/S1130147308702355
+
+https://swprs.org/face-masks-evidence/
+
