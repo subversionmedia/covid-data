@@ -62,6 +62,8 @@ In video from Biden Administration's press secretary, the Biden Administration i
 
 Cleveland Clinic study of 52k healthcare workers finds vaccine associated with lower risk in those not previously infected, but no evidence of risk reduction in previously infected. over 5 months, recorded 2579 infected, 1359 not vaccinated since infection, zero reinfections in both groups.  https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2
 
+Israeli's healthcare system data shows that across 2.5 million patients, natural immunity is over 13x more effective than the vaccine in preventing infection. https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1.full-text
+
 Antibody testing fails to reflect immunity once the infection subsides.  https://science.sciencemag.org/content/371/6529/eabf4063
 
 # Masks
