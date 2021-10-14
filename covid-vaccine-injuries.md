@@ -40,3 +40,7 @@ Iceland banned Moderna outright.  https://www.bloomberg.com/news/articles/2021-1
 Sweden and Finland suspended Moderna for people under 30, Norway for people under 18 https://www.bmj.com/content/375/bmj.n2477.  Denmark also suspended Moderna for people under 30.  https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/. 
 
 However, CDC data shows Pfizer has similar rates of carditis to Moderna for people under 25 and significantly greater rates of carditis for people under 18 https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-08-30/03-COVID-Su-508.pdf#page=13
+
+Whistleblower Doctors & Healthcare Professionals
+
+Doctors and healthcare workers reiterating human rights issues and health problems from the vaccine https://canadahealthalliance.org/wp-content/uploads/Open_Letter_to_Henry_Dix_Horgan_Eby_Oct_6_2021.pdf
