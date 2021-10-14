@@ -7,6 +7,8 @@ For example, mortality data from UK PHE shows the following https://www.medrxiv.
 * for people under 40 years old including with comorbidities, there were only 40 deaths in roughly 6 million cases = 0.000666666% mortality rate
 * for people aged 40-49 including those with comorbidities, the mortality rate was only 0.003268927%
 
+In most western countries, people under 50 are consistently over 60% or even 70% of the population, meaning for the majority of populations, covid mortality is extremely rare.
+
 # Real World Vaccine Injury Comparisons
 
 Taiwan finds vaccine deaths exceed covid deaths https://www.ntd.com/more-die-after-vaccination-than-from-covid-19-in-taiwan_688004.html raw data https://www.cdc.gov.tw/Uploads/c9fb07bf-6881-4198-b864-849a3bc9b61f.pdf
@@ -29,7 +31,7 @@ The BBC also admits the vaccines are more dangerous than covid for many people, 
 
 > Data for England suggests about 25 children died from Covid in the first 12 months of the pandemic.  The majority of them also had severe health problems, including complex neurodisabilities.  Only six had no recorded health conditions.
 
-Excess mortality not from covid is spiking across Europe with the vaccine rollout https://www.rintrah.nl/too-many-people-are-dying-and-its-starting-to-worry-the-demographers/ raw data: https://www.euromomo.eu/graphs-and-maps#excess-mortality
+Measurable excess mortality not from covid is also spiking across Europe with the vaccine rollout https://www.rintrah.nl/too-many-people-are-dying-and-its-starting-to-worry-the-demographers/ raw data: https://www.euromomo.eu/graphs-and-maps#excess-mortality
 
 # Bans & Suspensions on Vaccines
 
