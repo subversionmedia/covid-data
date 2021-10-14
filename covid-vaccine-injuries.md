@@ -41,10 +41,10 @@ Sweden and Finland suspended Moderna for people under 30, Norway for people unde
 
 However, CDC data shows Pfizer has similar rates of carditis to Moderna for people under 25 and significantly greater rates of carditis for people under 18 https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-08-30/03-COVID-Su-508.pdf#page=13
 
-Whistleblower Doctors & Healthcare Professionals
+# Healthcare Professional Whistleblowers
 
-Doctors and healthcare workers reiterating human rights issues and health problems from the vaccine https://canadahealthalliance.org/wp-content/uploads/Open_Letter_to_Henry_Dix_Horgan_Eby_Oct_6_2021.pdf
+Doctors and healthcare workers in Canada reiterating human rights issues and health problems from the vaccine are completely ignored by public health officials https://canadahealthalliance.org/wp-content/uploads/Open_Letter_to_Henry_Dix_Horgan_Eby_Oct_6_2021.pdf
 
-# Whistleblower Victims
+# Vaccine Injury Victim Whistleblowers
 
-Brandon Goodwin of Atlanta Hawks season ended because of vaccine injuries, ordered by the team & NBA to not talk about any of it.  https://www.youtube.com/watch?v=eTh_d9pKKFs
+Brandon Goodwin of Atlanta Hawks season had his season ended because of vaccine injuries, ordered by management to not talk about any of it.  https://www.youtube.com/watch?v=eTh_d9pKKFs
