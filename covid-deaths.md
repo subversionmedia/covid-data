@@ -74,6 +74,8 @@ Washington State classified people who died from gunshot wounds as covid deaths 
 
 Colorado officials classified a 35 year old man with blood-alcohol content of 0.55, nearly twice the lethal limit, as a covid death https://denver.cbslocal.com/2020/05/14/coronavirus-montezuma-county-coroner-alcohol-poisoning-covid-death/
 
-# Incentives
+# Negative Incentives
 
 Hospitals have the direct financial incentive to over-classify cases as covid, as reimbursement average over $40,000 as opposed to other conditions which are under a quarter of that https://www.factcheck.org/2020/04/hospital-payments-and-the-covid-19-death-count/.  Numerous officials and sources have claimed without evidence that there is no over-classifying, even though there is very substantial monetary incentive to do so, and testing was not required in the US to label a death as a covid death.
+
+People reported being asked by hospitals if they're okay with non-covid deaths of loved ones being classified as covid deaths, because families receive survivor benefits of $9,000 per covid death https://www.fema.gov/disaster/coronavirus/economic/funeral-assistance
