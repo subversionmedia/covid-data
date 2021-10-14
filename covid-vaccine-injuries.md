@@ -45,6 +45,6 @@ Whistleblower Doctors & Healthcare Professionals
 
 Doctors and healthcare workers reiterating human rights issues and health problems from the vaccine https://canadahealthalliance.org/wp-content/uploads/Open_Letter_to_Henry_Dix_Horgan_Eby_Oct_6_2021.pdf
 
-Whistleblower Victims
+# Whistleblower Victims
 
 Brandon Goodwin of Atlanta Hawks season ended because of vaccine injuries, ordered by the team & NBA to not talk about any of it.  https://www.youtube.com/watch?v=eTh_d9pKKFs
