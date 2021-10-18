@@ -84,6 +84,9 @@ The size of the mask pore is about 80 to 500μm (micrometers) or 80,000 to 500,0
 
 All 8 states of Peru running mass ivermectin trials show collapse in covid deaths in age 60+ patients immediately following deployment of mass ivermectin treatment https://twitter.com/SandmanRT/status/1368367083386503170/photo/1
 
+Australia Department of Health admits they banned Ivermectin not because it's ineffective or unsafe, but because having treatments would hinder vaccination efforts https://archive.is/XGId5
+
+> Firstly, there are a number of significant public health risks associated with taking ivermectin in an attempt to prevent COVID-19 infection rather than getting vaccinated.
 
 # Social Impact of Pandemic Policy
 
